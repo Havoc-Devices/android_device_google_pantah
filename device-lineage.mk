@@ -14,9 +14,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
-# PowerShare
-include hardware/google/pixel/powershare/device.mk
-
 # Build necessary packages for vendor
 
 # Audio
