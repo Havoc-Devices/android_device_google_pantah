@@ -368,3 +368,10 @@ PRODUCT_COPY_FILES += \
 # Enable adpf cpu hint session for SurfaceFlinger
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     debug.sf.enable_adpf_cpu_hint=true
+
+# Havoc-OS
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.havoc.device.name="Pixel 7 Pro" \
+    ro.havoc.group.url=https://t.me/+4re20edBBcE2YzNl \
+    ro.havoc.maintainer="Anushek Prasal" \
+    ro.havoc.maintainer.username=SKULSHADY \

@@ -23,7 +23,7 @@ include device/google/pantah/audio/cloudripper/factory-audio-tables.mk
 PRODUCT_NAME := factory_cloudripper
 PRODUCT_DEVICE := cloudripper
 PRODUCT_MODEL := Factory build on Cloudripper
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 # default BDADDR for EVB only

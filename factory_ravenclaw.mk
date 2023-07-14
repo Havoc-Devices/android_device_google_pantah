@@ -23,7 +23,7 @@ include device/google/pantah/audio/ravenclaw/factory-audio-tables.mk
 PRODUCT_NAME := factory_ravenclaw
 PRODUCT_DEVICE := ravenclaw
 PRODUCT_MODEL := Factory build on Ravenclaw
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 # default BDADDR for EVB only

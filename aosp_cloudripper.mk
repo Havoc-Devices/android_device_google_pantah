@@ -25,7 +25,7 @@ $(call inherit-product, device/google/pantah/device-cloudripper.mk)
 PRODUCT_NAME := aosp_cloudripper
 PRODUCT_DEVICE := cloudripper
 PRODUCT_MODEL := AOSP on cloudripper
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 DEVICE_MANIFEST_FILE := \

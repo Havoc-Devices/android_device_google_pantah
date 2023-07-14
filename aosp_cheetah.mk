@@ -25,7 +25,7 @@ $(call inherit-product, device/google/pantah/device-cheetah.mk)
 PRODUCT_NAME := aosp_cheetah
 PRODUCT_DEVICE := cheetah
 PRODUCT_MODEL := AOSP on Cheetah
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 DEVICE_MANIFEST_FILE := \

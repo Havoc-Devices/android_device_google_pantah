@@ -26,7 +26,7 @@ $(call inherit-product, device/google/pantah/device-ravenclaw.mk)
 PRODUCT_NAME := aosp_ravenclaw
 PRODUCT_DEVICE := ravenclaw
 PRODUCT_MODEL := AOSP on Ravenclaw
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 DEVICE_MANIFEST_FILE := \

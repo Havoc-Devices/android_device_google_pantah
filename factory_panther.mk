@@ -23,7 +23,7 @@ include device/google/pantah/audio/panther/factory-audio-tables.mk
 PRODUCT_NAME := factory_panther
 PRODUCT_DEVICE := panther
 PRODUCT_MODEL := Factory build on Panther
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 # default BDADDR for EVB only

@@ -356,3 +356,10 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 # HBM
 PRODUCT_PACKAGES += \
     HbmSVManagerOverlayPanther
+
+# Havoc-OS
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.havoc.device.name="Pixel 7" \
+    ro.havoc.group.url=https://t.me/+4re20edBBcE2YzNl \
+    ro.havoc.maintainer="Anushek Prasal" \
+    ro.havoc.maintainer.username=SKULSHADY \

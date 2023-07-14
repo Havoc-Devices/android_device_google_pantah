@@ -23,7 +23,7 @@ include device/google/pantah/audio/cheetah/factory-audio-tables.mk
 PRODUCT_NAME := factory_cheetah
 PRODUCT_DEVICE := cheetah
 PRODUCT_MODEL := Factory build on Cheetah
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := Google
 PRODUCT_MANUFACTURER := Google
 
 # default BDADDR for EVB only
